@@ -1,3 +1,3 @@
 # programEx1
-Cifrar y descifrar |   Encrypt and decrypt |   Cibersecurity 
+Cifrar y descifrar |   Encrypt and decrypt |   Cybersecurity 
 + Para consola 
